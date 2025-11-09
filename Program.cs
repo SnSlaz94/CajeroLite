@@ -79,12 +79,12 @@ namespace CajeroLite.App
                         break;
                     case '4':
                         Datos.CerrarSesion();
-                        CajeroLite.IO.IO.MostrarMensaje("Gracias por usar CajeroLite. ¡Hasta pronto!");
+                        CajeroLite.IO.IO.MostrarMensaje("Gracias. ¡Hasta pronto!");
                         salir = true;
                         break;
                     default:
 
-                        CajeroLite.IO.IO.MostrarMensaje("Opción no reconocida. Inténtelo de nuevo.", true);
+                        CajeroLite.IO.IO.MostrarMensaje("La pción no es reconocida. Inténtelo de nuevo.", true);
                         break;
                 }
 
