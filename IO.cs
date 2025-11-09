@@ -110,4 +110,4 @@ namespace CajeroLite.IO
         }
     }
 }
-//Tarea Completada
+//Tarea Completada.
