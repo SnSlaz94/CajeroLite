@@ -4,9 +4,9 @@ namespace CajeroLite.Data
 {
     public static class Datos
     {
-        public static string[] Usuarios = { "1001", "2002", "3003" };
-        public static string[] Pines = { "1234", "5678", "9876" };
-        public static decimal[] Saldos = { 5600000m, 2000000m, 3000000m };
+        public static string[] Usuarios = { "1001", "2002", "3003", "4004" };
+        public static string[] Pines = { "1234", "5678", "9876", "9876"};
+        public static decimal[] Saldos = { 5600000m, 2000000m, 3000000m, 27600000m};
 
 
         private static int indiceUsuarioActual = -1;
