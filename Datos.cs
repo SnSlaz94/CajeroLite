@@ -6,7 +6,7 @@ namespace CajeroLite.Data
     {
         public static string[] Usuarios = { "1001", "2002", "3003" };
         public static string[] Pines = { "1234", "5678", "9876" };
-        public static decimal[] Saldos = { 500000m, 1200000m, 1000000m };
+        public static decimal[] Saldos = { 5600000m, 2000000m, 3000000m };
 
 
         private static int indiceUsuarioActual = -1;
@@ -66,3 +66,5 @@ namespace CajeroLite.Data
         }
     }
 }
+
+/* Tarea completada*/

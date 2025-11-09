@@ -9,7 +9,6 @@ namespace CajeroLite.IO
         public static void MostrarEncabezado(string titulo)
         {
             Console.Clear();
-            Console.WriteLine("==============================================");
             Console.WriteLine($"            {titulo}");
             Console.WriteLine("==============================================");
         }
@@ -111,3 +110,4 @@ namespace CajeroLite.IO
         }
     }
 }
+//Tarea Completada
